@@ -21,7 +21,6 @@
     "src",
     "*.yml",
     "Gemfile",
-    "Gemfile.lock",
-    "*.md"
+    "Gemfile.lock"
   ]
 }
